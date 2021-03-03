@@ -1,0 +1,71 @@
+{
+  "action": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "dismiss": "Dismiss",
+    "viewMoreDetails": "View More Details",
+    "close": "Close",
+    "normal": "Normal",
+    "tight": "Tight",
+    "none": "None",
+    "last60": "Last 1 Month",
+    "CLOSE": "CLOSE",
+    "seemore": "explore all",
+    "logout": "Logout"
+  },
+  "dialog": {
+    "errorOccured": "Something went wrong, please try again.",
+    "requiredField": "Required",
+    "emailInvalid": "Invalid email"
+  },
+  "dashboard": {
+    
+  },
+  "navigationTitle": {
+    "tracker": "Tracker"
+  },
+  "tracker": {
+    "total": "Total Credits",
+    "gamesWeek": "GAMEWEEK : %@ Points",
+    "distance": "distance",
+    "totalScores": "your scores",
+    "looops": "looops"
+  },
+  "activity": {
+    "categories": "categories",
+    "wellness": "wellness",
+    "shopping": "shopping",
+    "dining": "dining",
+    "travel": "travel",
+    "entertainment": "entertainment"
+  },
+  "authentication": {
+    "userName": "Username",
+    "password": "Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "userNamehder": "Email",
+    "passwordhder": "Password",
+    "email": "Email",
+
+    "signIn": "Sign In",
+    "signup": "Sign Up",
+    "joinNow": "join now",
+    "hadMember": "Already a Member?",
+    "login": "login",
+    "joinUs": "Join Us",
+    "facebookLoginBtn": "log in with facebook",
+    "appleLoginBtn": "sign in with apple",
+    "signupPlaceHolder": "JOIN THE INNER CIRCLE",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Password?",
+    "changeUser": "Change User?",
+    "conTentChangeUser": "Changing user will remove your current logged in information.",
+    "dismiss": "Dismiss",
+    "confirm": "CONFIRM",
+    "loginAs": "Login as",
+    "notYou": "Not You?",
+    "sessionExpress": "Your session has expired or you have attempted an unauthorised action. Please login again.",
+    "errorLogin": "Either your email or password is incorrect. Please try again."
+  }
+}
